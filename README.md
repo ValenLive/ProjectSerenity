@@ -3,6 +3,6 @@
 
 ![SerenityPrev](SerenityPreview.PNG)
 
-In-engine asset preview:
+In-engine preview:
 
 ![EditorPreview](https://github.com/ValenLive/ProjectSerenity/blob/main/PreviewPNG.PNG?raw=true)
